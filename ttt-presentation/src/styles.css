@@ -1,13 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
 /* @import "@angular/material/prebuilt-themes/deeppurple-amber.css"; */
 body {
-  background-color: black;
+  background-color: white;
+  height: 100%;
+  margin: 0;
 }
 
 footer {
   align-content: center;
 }
 
-.content {
-  color: white;
+html {
+  height: 100%;
 }

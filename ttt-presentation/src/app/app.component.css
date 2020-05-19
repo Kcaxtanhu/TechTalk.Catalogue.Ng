@@ -1,0 +1,33 @@
+mat-toolbar {
+  width: 100%;
+}
+
+mat-icon:hover {
+  cursor: pointer;
+}
+
+mat-sidenav-container,
+mat-sidenav-content,
+mat-sidenav {
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover,
+a:active {
+  color: lightgray;
+}
+
+.nav-items {
+  list-style: none;
+  padding: o;
+  margin: 0;
+}
+
+a span {
+  padding-left: 6px;
+}
